@@ -5,7 +5,8 @@ title: Home
 
 # Welcome to My Portfolio
 
-Hello! I'm Vishal. This blog documents the technical details, architecture, and challenges I faced while building my projects. Here you will find deep dives into how I implemented secure browsers, containerized wargames, and high-performance computing environments.
+Hello! I'm Vishal. I am a backend focused engineer trying to understand and implement backend systems.
+I have keen interest in reverse engineering, bug hunting and cloud. This blog documents the technical details, architecture, and challenges I faced while building my projects. 
 
 ## Featured Projects
 
