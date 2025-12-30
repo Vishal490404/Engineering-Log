@@ -147,7 +147,7 @@ title: Home
             <span class="tech-tag">Docker</span>
         </div>
         <p class="project-summary">
-            A comprehensive platform for High Performance Computing workshops. Features an integrated environment for learning (JupyterHub), practice, and automated assessment of OpenMP/MPI/CUDA code.
+            A comprehensive platform for High Performance Computing workshops. Features an integrated environment for learning, practice, and automated assessment of OpenMP/MPI/CUDA code.
         </p>
         <a href="./projects/grading-server.html" class="cta-link">View Architecture & Challenges &rarr;</a>
     </div>
