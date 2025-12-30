@@ -1,0 +1,5 @@
+title: Vishal's Project Portfolio
+description: A showcase of my technical projects, architecture, and engineering challenges.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
