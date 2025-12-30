@@ -101,4 +101,10 @@ flowchart LR
   mermaid.initialize({ startOnLoad: true, theme: 'dark' });
 </script>
 
+## Detailed Documentation
+
+For a deeper dive into the system's implementation, configuration, and usage, please refer to the full documentation:
+
+<a href="https://drive.google.com/file/d/1NpsIlMhWAU4oKxJHs37bQgkunIDjwYFY/view?usp=sharing" target="_blank" class="btn">📄 View Documentation</a>
+
 [Back to Home](../index.html)
