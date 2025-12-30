@@ -5,8 +5,6 @@ title: HPC Grading Service
 
 # HPC Grading Service - National Supercomputing Mission
 
-**Repository:** [AdityaAparadh/nsm](https://github.com/AdityaAparadh/nsm)
-
 This project is a comprehensive platform designed to facilitate workshops on High Performance Computing (HPC) technologies like OpenMP, MPI, and CUDA. It provides an integrated environment for learning, practice, and automated assessment.
 
 ## Architecture
@@ -34,7 +32,7 @@ The system is built around a central Web Application that manages workshops, use
 
 ### System Diagram
 
-```mermaid
+<div class="mermaid">
 graph TD
     subgraph "Management & Frontend"
         Instructor[Instructor]
@@ -79,6 +77,11 @@ graph TD
 
     %% Completion
     Participant -->|10. View Progress & Download Certificate| WebApp
-```
+</div>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+</script>
 
 [Back to Home](../index.html)
