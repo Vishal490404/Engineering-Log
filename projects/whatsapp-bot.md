@@ -18,7 +18,7 @@ The bot automates the process of checking for contests and sending notifications
 2. **Data Aggregation**: Fetches contest data from Clist API.
 3. **WhatsApp Integration**: Uses `Baileys` library to interact with WhatsApp Web API.
 
-[View full Documentation](https://goofball4.readthedocs.io)
+[View full Architecture Document](https://goofball4.readthedocs.io/en/latest/architecture/)
 
 ## Challenges & Solutions
 
@@ -29,6 +29,6 @@ Keeping track of contests across multiple platforms is challenging. Missing cont
 **The Solution:**
 The bot centralizes information by aggregating contest data and provides proactive notifications and smart reminders 30 minutes before each contest.
 
-[View full Documentation](https://goofball4.readthedocs.io)
+[View full Challenges Document](https://goofball4.readthedocs.io/en/latest/challenges/)
 
 [Back to Home](../index.html)
