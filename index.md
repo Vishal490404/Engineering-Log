@@ -95,7 +95,7 @@ title: Home
         </div>
         <div class="tech-stack">
             <span class="tech-tag">Security</span>
-            <span class="tech-tag">Electron</span>
+            <span class="tech-tag">PyQt</span>
             <span class="tech-tag">System Hardening</span>
         </div>
         <p class="project-summary">
@@ -112,7 +112,6 @@ title: Home
         <div class="tech-stack">
             <span class="tech-tag">Docker</span>
             <span class="tech-tag">Linux</span>
-            <span class="tech-tag">Gamification</span>
         </div>
         <p class="project-summary">
             A terminal-based interactive game running in isolated Docker containers. Features intuitive controls and progressive difficulty levels. Successfully played by 250+ users during the event.
@@ -128,7 +127,7 @@ title: Home
         <div class="tech-stack">
             <span class="tech-tag">Automation</span>
             <span class="tech-tag">WhatsApp API</span>
-            <span class="tech-tag">Web Scraping</span>
+            <span class="tech-tag">Cloud</span>
         </div>
         <p class="project-summary">
             An automated notification system keeping competitive programmers updated about upcoming contests. Aggregates data from CodeChef, Codeforces, LeetCode, and AtCoder.
